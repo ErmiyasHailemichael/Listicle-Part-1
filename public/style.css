@@ -28,6 +28,7 @@ main{
     box-shadow:  0 4px 10px rgba(0,0,0,0.1); */
     border: 1px solid #E3E1D9;
     border-radius: 8px;
+    color: black;
     padding: 16px;
     margin: 16px;
     text-align: center;
@@ -50,7 +51,7 @@ main{
     background-color: #3F72AF;
 }
 .card{
-  background-color: #000000;
+    background-color: #000000;
     border-radius: 8px;
     padding: 20px;
     margin: 20px auto;

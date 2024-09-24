@@ -28,6 +28,9 @@ guideList.forEach((tip) =>{
     guideListElement.appendChild(card)
 });
 
-function viewDetail(title){
-    alert(`Details about: ${title}`)
+// function viewDetail(title,){
+//     alert(`Details about: ${title}`)
+// }
+function viewDetail(title) {
+    window.location.href = `detail.html?title=${encodeURIComponent(title)}`;
 }

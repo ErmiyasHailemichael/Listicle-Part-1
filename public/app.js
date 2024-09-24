@@ -11,29 +11,29 @@ const guideList = [
         title: 'Marketing',
         text: 'Nisl mauris libero cras porta egestas fermentum orci. Cursus maximus eu nam nullam primis vestibulum adipiscing arcu sagittis. Maecenas augue vestibulum blandit elit aliquam. Dis semper blandit arcu; curabitur morbi quam. Class class nisl felis aliquet ullamcorper semper. Nisi varius proin dapibus ullamcorper neque velit.',
         category: 'Marketing ',
-        image: 'https://images.pexels.com/photos/590041/pexels-photo-590041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        image: 'https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
         submittedBy: 'Ermiyas'
     },
     {
         title: 'Branding',
         text: 'Nisl mauris libero cras porta egestas fermentum orci. Cursus maximus eu nam nullam primis vestibulum adipiscing arcu sagittis. Maecenas augue vestibulum blandit elit aliquam. Dis semper blandit arcu; curabitur morbi quam. Class class nisl felis aliquet ullamcorper semper. Nisi varius proin dapibus ullamcorper neque velit.',
         category: 'Marketing ',
-        image: 'https://images.pexels.com/photos/590041/pexels-photo-590041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-        submittedBy: 'Ermiyas'
+        image: 'https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        submittedBy: 'John'
     },
     {
         title: 'How to leverage Social media',
         text: 'Nisl mauris libero cras porta egestas fermentum orci. Cursus maximus eu nam nullam primis vestibulum adipiscing arcu sagittis. Maecenas augue vestibulum blandit elit aliquam. Dis semper blandit arcu; curabitur morbi quam. Class class nisl felis aliquet ullamcorper semper. Nisi varius proin dapibus ullamcorper neque velit.',
-        category: 'Marketing ',
-        image: 'https://images.pexels.com/photos/590041/pexels-photo-590041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-        submittedBy: 'Ermiyas'
+        category: 'Social Media ',
+        image: 'https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        submittedBy: 'Zinni'
     },
     {
         title: 'The Art of Selling',
         text: 'Nisl mauris libero cras porta egestas fermentum orci. Cursus maximus eu nam nullam primis vestibulum adipiscing arcu sagittis. Maecenas augue vestibulum blandit elit aliquam. Dis semper blandit arcu; curabitur morbi quam. Class class nisl felis aliquet ullamcorper semper. Nisi varius proin dapibus ullamcorper neque velit.',
         category: 'Marketing ',
-        image: 'https://images.pexels.com/photos/590041/pexels-photo-590041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-        submittedBy: 'Ermiyas'
+        image: 'https://images.pexels.com/photos/48148/document-agreement-documents-sign-48148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        submittedBy: 'Wilshere'
     }
 ];
 

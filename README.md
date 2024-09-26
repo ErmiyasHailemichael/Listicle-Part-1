@@ -1,11 +1,13 @@
+
+https://github.com/user-attachments/assets/65c38a1c-f7e3-468a-bf1a-85d2f0f01d27
 # Listicle-Part-1
-# WEB103 Project 1 - *Name of App Here*
+# WEB103 Project 1 - Listicle-Part-1
 
-Submitted by: **Your name here**
+Submitted by: **Ermiyas Hailemichael**
 
-About this web app: **App description here**
+About this web app: This web app displays a list of guides for enterpreneurs 
 
-Time spent: **X** hours
+Time spent: 23 hours
 
 ## Required Features
 
@@ -26,9 +28,17 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you added to improve the site's functionality!
+- [x] List anything else that you added to improve the site's functionality!
+- [x] Add a character limitation on the cards so we don't see all the information
 
 ## Video Walkthrough
+
+<video width="320" height="240" controls>
+  <source src="Uploading Screen Recording 2024-09-25 at 5.17.36 PM-1.mov…" type="video/mp4">
+</video>
+
+![Screenshot 2024-09-25 at 5 16 56 PM](https://github.com/user-attachments/assets/da445b54-69d2-4845-88d5-3c6d8d90f91d)
+
 
 **Note: please be sure to 
 
